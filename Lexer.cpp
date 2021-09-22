@@ -28,7 +28,6 @@ namespace COMP{
         acc[1] = true;
 
     }
-    
     Lexer::~Lexer()
     {
     }
