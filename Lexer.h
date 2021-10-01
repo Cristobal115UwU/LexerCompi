@@ -51,6 +51,7 @@ namespace COMPILADOR_C_1{
         int yylex();
         int charToColumn();
         void printtableT();
+
         int token(int q);
         string getYytext();    
     };  
